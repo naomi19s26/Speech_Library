@@ -15,5 +15,9 @@ This is a Spring Boot-based back-end system designed for managing and storing sp
 - **JPA/Hibernate**: For ORM-based database operations.
 - **Postman**: For testing and interacting with the API.
 
-## Images of Postman Endpoint Testing
+## Images of Postman Endpoint Testing'
+##Add a speech endpoint
 ![Add Speech Endpoint](add_speech.png)
+
+##Get all speeches endpoint
+![Get Speeches Endpoint](get_speeches.png)
