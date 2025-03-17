@@ -16,8 +16,14 @@ This is a Spring Boot-based back-end system designed for managing and storing sp
 - **Postman**: For testing and interacting with the API.
 
 ## Images of Postman Endpoint Testing'
-##Add a speech endpoint
+## Add a speech endpoint
 ![Add Speech Endpoint](add_speech.png)
 
-##Get all speeches endpoint
+## Get all speeches endpoint
 ![Get Speeches Endpoint](get_speeches.png)
+
+## Edit a speeech endpoint
+![Edit Speeches Endpoint](edit_speech.png)
+
+## Getting all speeches after editing Speech 1
+![New_List_of_Speeches](new_speech_list_after_editing_speech.png)
