@@ -16,4 +16,4 @@ This is a Spring Boot-based back-end system designed for managing and storing sp
 - **Postman**: For testing and interacting with the API.
 
 ## Images of Postman Endpoint Testing
-
+![Add Speech Endpoint](images/add_speech.png)
