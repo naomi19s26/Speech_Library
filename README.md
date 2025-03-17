@@ -9,9 +9,8 @@ This is a Spring Boot-based back-end system designed for managing and storing sp
 - **Edit a Speech**: Edit an existing speech.
 - **View all Speeeches**: Retreives all speeches created by the user
 
-## Tech Stack
+## Technologies
 - **Spring Boot**: For building the back-end system.
-- **H2 Database**: In-memory database for storing speech records.
 - **JPA/Hibernate**: For ORM-based database operations.
 - **Postman**: For testing and interacting with the API.
 
