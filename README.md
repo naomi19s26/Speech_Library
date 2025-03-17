@@ -1,4 +1,4 @@
-# Speech_Librarry_API
+# Speech_Library_API
 
 ## Description
 This is a Spring Boot-based back-end system designed for managing and storing speeches. It allows politicians to add, retrieve, update, view their speeches, providing easy access to their speech records.
